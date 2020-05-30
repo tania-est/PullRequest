@@ -18,6 +18,8 @@ namespace TestPullRequest
             //testing the file
 
             //A new comment
+
+            // 2nd new comment
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
